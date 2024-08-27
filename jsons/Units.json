@@ -1,0 +1,16 @@
+[
+	{
+		"name": "FPV",
+		"unitType": "Helicopter",
+		"movement": 12,
+		"strength": 150,
+		"range": 1,
+		"cost": 70,
+		"uniques": ["Self-destructs when attacking", "[+300]% Strength <vs [Armored] units>",
+		"Never appears as a Barbarian unit", "No defensive terrain bonus", "Invisible to others", "Unable to pillage tiles",
+		"Unable to capture cities"],
+		"requiredResource": "Aluminum",
+		"requiredTech": "Computers",
+		"attackSound": "explosive",
+	}
+]
